@@ -8,7 +8,7 @@
 
 ---
 
-![Samuel Clemens & Dorothea Lagne's "Migrant Mother" overlaid with AngularJS]({{site.baseurl}}/assets/images/angular-clemens-migrant.jpg)
+![Samuel Clemens & Dorothea Lagne's "Migrant Mother" overlaid with AngularJS]({{site.baseurl}}/assets/images/140-400x400.jpg)
 
 *Samuel Clemens & Dorothea Lagne's "Migrant Mother*
 
