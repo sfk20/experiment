@@ -8,7 +8,7 @@
 
 ---
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
+[Put a general discussion of your topic here.](https://bostoncollege.edu) Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
 
 YOU SHOULD BE COPIOUS AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
